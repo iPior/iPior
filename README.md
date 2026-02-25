@@ -1,3 +1,21 @@
+```txt
+piotr@github:~$ whoami
+Piotr Szaran — Stats major, CS + Math graduate (University of Toronto)
+
+piotr@github:~$ cat headline.txt
+Self-taught builder focused on web + full-stack development.
+I like clean architecture, solving real problems, and working well with teams.
+```
+
+<picture>
+  <img
+    alt="Tech badges"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,linux,docker,postgres,supabase,vercel&perline=12"
+  />
+</picture>
+
+
+
 # Hi, I'm Piotr Szaran
 
 I'm a **Statistics major** and **CS + Math graduate from the University of Toronto**. After finishing school I took a short break, but I’ve continued learning through self-directed projects and freelancing. I primarily build **web apps** and do **full-stack** work.
