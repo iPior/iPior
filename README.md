@@ -1,12 +1,32 @@
-```txt
-piotr@github:~$ whoami
-Piotr Szaran — Stats major, CS + Math graduate (University of Toronto)
+# Hi, I'm Piotr Szaran
 
-piotr@github:~$ cat headline.txt
-Self-taught builder focused on web + full-stack development.
-I like clean architecture, solving real problems, and working well with teams.
-```
+CS • Stats • Math graduate (University of Toronto)  
+Full-stack web dev focused on **clean architecture**, **problem solving**, and **teamwork**.  
+Targeting **Web Developer / Full-Stack** roles.
 
+---
+
+## What I’m up to
+Building my **wedding website** (**private repo**)   
+Shipping **two client websites** for local small businesses (also **private repos**)
+
+## What I use
+**Languages:** JavaScript, TypeScript  
+**Frameworks:** Next.js, React, Node.js, Express  
+**Platforms:** Linux, Docker, Supabase, Vercel  
+
+## What I’m interested in
+Web dev • full stack • AI/LLM-powered tooling • self-hosting/homelab projects
+
+## Next project
+A **self-hosted finance tracker** for my homelab + training my first LLM to categorize uploaded
+credit card statements.
+
+## Freelance Work
+https://www.nextlvltherapy.com/   
+https://www.polishstudiesuoft.org/en
+
+## Toolbox
 <picture>
   <img
     alt="Tech badges"
@@ -14,22 +34,7 @@ I like clean architecture, solving real problems, and working well with teams.
   />
 </picture>
 
-
-
-# Hi, I'm Piotr Szaran
-
-I'm a **Statistics major** and **CS + Math graduate from the University of Toronto**. After finishing school I took a short break, but I’ve continued learning through self-directed projects and freelancing. I primarily build **web apps** and do **full-stack** work.
-
-I'm currently targeting **Web Developer / Full-Stack** roles.
-
-### What I do
-- Full-stack web development (with a focus on building practical, shippable products)
-- Freelance websites (many of these repos are private)
-- I like picking a problem and learning whatever I need to solve it
-
-### My Work
-- https://www.nextlvltherapy.com/
-- https://www.polishstudiesuoft.org/en
+---
 
 <!--
 **iPior/iPior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
