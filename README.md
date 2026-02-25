@@ -10,8 +10,8 @@ I'm currently targeting **Web Developer / Full-Stack** roles.
 - I like picking a problem and learning whatever I need to solve it
 
 ### My Work
-https://www.nextlvltherapy.com/
-https://www.polishstudiesuoft.org/en
+- https://www.nextlvltherapy.com/
+- https://www.polishstudiesuoft.org/en
 
 <!--
 **iPior/iPior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
