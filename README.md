@@ -2,17 +2,12 @@
 
 I'm a **Statistics major** and **CS + Math graduate from the University of Toronto**. After finishing school I took a short break, but I’ve continued learning through self-directed projects and freelancing. I primarily build **web apps** and do **full-stack** work.
 
+I'm currently targeting **Web Developer / Full-Stack** roles.
+
 ## What I do
 - Full-stack web development (with a focus on building practical, shippable products)
 - Freelance websites (many of these repos are private)
 - I like picking a problem and learning whatever I need to solve it
-
-## What I'm looking for
-I'm currently targeting **Web Developer / Full-Stack** roles.
-
-## Tech I use
-- **Next.js** (primary) and TypeScript
-- Comfortable jumping into new tools/frameworks as needed
 
 ## My Work
 - https://www.nextlvltherapy.com/
