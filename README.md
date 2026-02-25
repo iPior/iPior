@@ -4,14 +4,14 @@ I'm a **Statistics major** and **CS + Math graduate from the University of Toron
 
 I'm currently targeting **Web Developer / Full-Stack** roles.
 
-## What I do
+### What I do
 - Full-stack web development (with a focus on building practical, shippable products)
 - Freelance websites (many of these repos are private)
 - I like picking a problem and learning whatever I need to solve it
 
-## My Work
-- https://www.nextlvltherapy.com/
-- https://www.polishstudiesuoft.org/en
+### My Work
+https://www.nextlvltherapy.com/
+https://www.polishstudiesuoft.org/en
 
 <!--
 **iPior/iPior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
