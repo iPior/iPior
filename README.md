@@ -7,24 +7,18 @@ I'm a **Statistics major** and **CS + Math graduate from the University of Toron
 - Freelance websites (many of these repos are private)
 - I like picking a problem and learning whatever I need to solve it
 
-## Tech I use
-- **Next.js** (primary)
-- React, Express, REST APIs
-- Comfortable jumping into new tools/frameworks as needed
+## Websites i've dveloped
+- https://www.nextlvltherapy.com/
 
-## Recently
-I got interested in building my own streaming setup for movies and DJ mixes, so I grabbed a **Raspberry Pi** and learned how to **self-host**.
+## Tech I use
+- **Next.js** (primary) and TypeScript
+- Comfortable jumping into new tools/frameworks as needed
 
 ## What I'm looking for
 I'm currently targeting **Web Developer / Full-Stack** roles.
 
 ## A bit more about me
 Outside of coding: **outdoors**, **Rocket League**, and the **gym**.
-
-## Contact
-- LinkedIn: <add link>
-- Email: <add email>
-- Portfolio: <add link>
 
 <!--
 **iPior/iPior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
