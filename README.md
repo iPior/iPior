@@ -14,12 +14,9 @@ I'm currently targeting **Web Developer / Full-Stack** roles.
 - **Next.js** (primary) and TypeScript
 - Comfortable jumping into new tools/frameworks as needed
 
-### Websites i've dveloped
+## My Work
 - https://www.nextlvltherapy.com/
 - https://www.polishstudiesuoft.org/en
-
-### A bit more about me
-Outside of coding: **outdoors**, **Rocket League**, and the **gym**.
 
 <!--
 **iPior/iPior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
