@@ -7,17 +7,18 @@ I'm a **Statistics major** and **CS + Math graduate from the University of Toron
 - Freelance websites (many of these repos are private)
 - I like picking a problem and learning whatever I need to solve it
 
-## Websites i've dveloped
-- https://www.nextlvltherapy.com/
+## What I'm looking for
+I'm currently targeting **Web Developer / Full-Stack** roles.
 
 ## Tech I use
 - **Next.js** (primary) and TypeScript
 - Comfortable jumping into new tools/frameworks as needed
 
-## What I'm looking for
-I'm currently targeting **Web Developer / Full-Stack** roles.
+### Websites i've dveloped
+- https://www.nextlvltherapy.com/
+- https://www.polishstudiesuoft.org/en
 
-## A bit more about me
+### A bit more about me
 Outside of coding: **outdoors**, **Rocket League**, and the **gym**.
 
 <!--
