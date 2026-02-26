@@ -6,27 +6,27 @@ Targeting **Web Developer / Full-Stack** roles.
 
 ---
 
-## What I’m up to 💬
+## What I’m up to
 Building my **wedding website** (**private repo**)   
 Shipping **two client websites** for local small businesses (also **private repos**)
 
-## What I use 🔨
+## What I use
 **Languages:** JavaScript, TypeScript  
 **Frameworks:** Next.js, React, Node.js, Express  
 **Platforms:** Linux, Docker, Supabase, Vercel  
 
-## What I’m interested in 💥
+## What I’m interested in
 Web dev • full stack • AI/LLM-powered tooling • self-hosting/homelab projects
 
-## Next project 🌱
+## Next project
 A **self-hosted finance tracker** for my homelab + training my first LLM to categorize uploaded
 credit card statements.
 
-## Freelance Work 🙌
+## Freelance Work
 https://www.nextlvltherapy.com/   
 https://www.polishstudiesuoft.org/en
 
-## Toolbox ⚡
+## Toolbox
 <picture>
   <img
     alt="Tech badges"
