@@ -7,8 +7,7 @@ Targeting **Web Developer / Full-Stack** roles.
 ---
 
 ## What I’m up to
-Building my **wedding website** (**private repo**)   
-Shipping **two client websites** for local small businesses (also **private repos**)
+Working on **Pior Labs**[https://github.com/pior-labs]. I recently moved so I need setup all my home computers again before I continue working on the next application. 
 
 ## What I use
 **Languages:** JavaScript, TypeScript  
@@ -19,8 +18,7 @@ Shipping **two client websites** for local small businesses (also **private repo
 Web dev • full stack • AI/LLM-powered tooling • self-hosting/homelab projects
 
 ## Next project
-A **self-hosted finance tracker** for my homelab + training my first LLM to categorize uploaded
-credit card statements.
+A **self-hosted ai-chatbot** that has MCP connections to other self-hosted apps deployed on my home network and productivity tools like Google Calendar.
 
 ## Freelance Work
 https://www.nextlvltherapy.com/   
