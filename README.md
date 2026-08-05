@@ -7,7 +7,7 @@ Targeting **Web Developer / Full-Stack** roles.
 ---
 
 ## What I’m up to
-Working on **Pior Labs**[https://github.com/pior-labs]. I recently moved so I need setup all my home computers again before I continue working on the next application. 
+Working on **[Pior Labs](https://github.com/pior-labs)**. I recently moved so I need setup all my home computers again before I continue working on the next application. 
 
 ## What I use
 **Languages:** JavaScript, TypeScript  
