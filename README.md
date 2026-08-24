@@ -2,7 +2,7 @@
 
 CS • Stats • Math graduate (University of Toronto)  
 Full-stack web dev focused on **clean architecture**, **problem solving**, and **teamwork**.  
-Targeting **Web Developer / Full-Stack** roles.
+Targeting **AI Eng / Full-Stack / DevOps** roles.
 
 ---
 
@@ -18,6 +18,7 @@ Working on **[Pior Labs](https://github.com/pior-labs)**. I recently moved so I 
 Web dev • full stack • AI/LLM-powered tooling • self-hosting/homelab projects
 
 ## Next project
+A **self-hosted cookbook** to keep track of recipes.
 A **self-hosted ai-chatbot** that has MCP connections to other self-hosted apps deployed on my home network and productivity tools like Google Calendar.
 
 ## Freelance Work
