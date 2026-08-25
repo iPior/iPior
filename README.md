@@ -1,37 +1,71 @@
 # Hi, i'm Piotr Szaran 👋
 
-CS • Stats • Math graduate (University of Toronto)  
-Full-stack web dev focused on **clean architecture**, **problem solving**, and **teamwork**.  
-Targeting **AI Eng / Full-Stack / DevOps** roles.
+Full-stack developer and homelab builder with a background in statistics, computer science, and mathematics from the University of Toronto.
+
+I build self-hosted applications and the infrastructure behind them, primarily using TypeScript, React, Node.js, PostgreSQL, Docker, and Linux. My approach combines software engineering fundamentals with AI-native practices such as context engineering, spec-driven development, custom agent workflows, and structured validation. I’m especially interested in full-stack, platform/DevOps, and applied AI engineering.
 
 ---
 
-## What I’m up to
-Working on **[Pior Labs](https://github.com/pior-labs)**. I recently moved so I need setup all my home computers again before I continue working on the next application. 
+## Areas of interest
 
-## What I use
-**Languages:** JavaScript, TypeScript  
-**Frameworks:** Next.js, React, Node.js, Express  
-**Platforms:** Linux, Docker, Supabase, Vercel  
+Full-stack architecture • Platform engineering • DevOps • AI/LLM tooling • MCP • Self-hosting • Homelabs
 
-## What I’m interested in
-Web dev • full stack • AI/LLM-powered tooling • self-hosting/homelab projects
+## What I’m building
 
-## Next project
-A **self-hosted cookbook** to keep track of recipes.
-A **self-hosted ai-chatbot** that has MCP connections to other self-hosted apps deployed on my home network and productivity tools like Google Calendar.
+I’m currently developing **[Pior Labs](https://github.com/pior-labs)**—a private, self-hosted application platform that gives independently deployed applications shared:
 
-## Freelance Work
-https://www.nextlvltherapy.com/   
-https://www.polishstudiesuoft.org/en
+* Authentication and user identity
+* Networking, HTTPS, and private remote access
+* PostgreSQL infrastructure
+* UI components and design conventions
+* Deployment workflows and operational tooling
+* A reusable starting point for new applications
+
+The project began with a personal finance application and evolved into a reusable platform for building and operating additional applications without solving the same infrastructure problems each time.
+
+## Featured projects
+
+* **[Pior Labs Platform](https://github.com/pior-labs/platform)** — Architecture, conventions, security model, and documentation for the wider platform
+* * **[Wedding Website](https://github.com/iPior/wedding-website)** — Designed, built, and operated a production Next.js and Supabase application for approximately 200 guests. It included a custom RSVP system, administrative tools, email broadcasting, and Sentry monitoring, and ran through the event without any reported production issues. I chose Vercel for managed deployments, CDN delivery, TLS, and low operational overhead so I could focus on the user experience and event-specific functionality.
+* **[Finlens](https://github.com/pior-labs/app-finance-tracker)** — Self-hosted personal finance application integrated with the shared platform
+* **[Cookbook](https://github.com/pior-labs/app-cookbook)** — Self-hosted recipe management application and the first greenfield test of the reusable platform approach
+* **AI assistant — planned** — A private assistant using MCP connections to interact with self-hosted applications and productivity tools
+
+## How I work with AI
+
+I use AI coding agents within a structured software-development process rather than relying on one-shot generation. My approach includes:
+
+* Context engineering and repository-specific instructions
+* Spec-driven development with clear constraints and acceptance criteria
+* Breaking larger problems into bounded, reviewable components
+* Custom agents, skills, and reusable development workflows
+* Selecting models and tools based on their strengths and tradeoffs
+* Using tests, builds, type-checking, and human review as feedback loops
+
+I regularly work with tools including Codex, Claude Code, and GitHub Copilot, while exploring MCP, agent orchestration, RAG, and evaluation for future applications.
+
+
+## Selected technologies
+
+* **Languages:** TypeScript, JavaScript, Python, SQL
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express, Hono, PostgreSQL, MariaDB, Drizzle
+* **Infrastructure:** Docker, Linux, GitHub Actions, Caddy, Tailscale
+
+## Freelance work
+
+* [Next Level Therapy](https://www.nextlvltherapy.com/)
+* [Polish Studies at the University of Toronto](https://www.polishstudiesuoft.org/en)
 
 ## Toolbox
+
 <picture>
   <img
-    alt="Tech badges"
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,linux,docker,postgres,supabase,vercel,bun&perline=13"
+    alt="Technology icons"
+    src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,postgres,mysql,linux,docker,githubactions,supabase,vercel,bun&perline=8"
   />
 </picture>
+
 
 ---
 
