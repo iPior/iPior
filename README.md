@@ -26,7 +26,7 @@ The project began with a personal finance application and evolved into a reusabl
 ## Featured projects
 
 * **[Pior Labs Platform](https://github.com/pior-labs/platform)** — Architecture, conventions, security model, and documentation for the wider platform
-* * **[Wedding Website](https://github.com/iPior/wedding-website)** — Designed, built, and operated a production Next.js and Supabase application for approximately 200 guests. It included a custom RSVP system, administrative tools, email broadcasting, and Sentry monitoring, and ran through the event without any reported production issues. I chose Vercel for managed deployments, CDN delivery, TLS, and low operational overhead so I could focus on the user experience and event-specific functionality.
+* **[Wedding Website](https://github.com/iPior/wedding-website)** — Designed, built, and operated a production Next.js and Supabase application for approximately 200 guests. It included a custom RSVP system, administrative tools, email broadcasting, and Sentry monitoring, and ran through the event without any reported production issues. I chose Vercel for managed deployments, CDN delivery, TLS, and low operational overhead so I could focus on the user experience and event-specific functionality.
 * **[Finlens](https://github.com/pior-labs/app-finance-tracker)** — Self-hosted personal finance application integrated with the shared platform
 * **[Cookbook](https://github.com/pior-labs/app-cookbook)** — Self-hosted recipe management application and the first greenfield test of the reusable platform approach
 * **AI assistant — planned** — A private assistant using MCP connections to interact with self-hosted applications and productivity tools
