@@ -56,6 +56,7 @@ I regularly work with tools including Codex, Claude Code, and GitHub Copilot, wh
 
 * [Next Level Therapy](https://www.nextlvltherapy.com/)
 * [Polish Studies at the University of Toronto](https://www.polishstudiesuoft.org/en)
+* [NJ TEC Systems](https://njtec.ca)
 
 ## Toolbox
 
